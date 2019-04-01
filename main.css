@@ -1,0 +1,43 @@
+body{
+  background-color: white;
+}
+
+h1{
+  text-align: center;
+  font-size: 36px;
+  color: #f45c42;
+}
+
+h2{
+  text-align: center;
+  font-size: 24px;
+  color: #f4427d;
+}
+
+p{
+  color: white;
+  font-size: 20px;
+  text-indent: 10px;
+}
+
+div{
+  background-color: black;
+  width: 20%;
+  height: 8%;
+  padding: 10px;
+  margin: 20px;
+}
+
+.d1{
+  float:left;
+}
+
+.d2{
+  float: right;
+}
+
+.d3{
+  clear:left;
+  float:left;
+  margin-left: 40%;
+}
